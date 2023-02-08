@@ -1,0 +1,730 @@
+sniffing on eth0
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x1
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61be
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x1
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61be
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x1
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61be
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x1
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61be
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x1
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61be
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x1
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61be
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x1
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61be
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x1
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61be
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x1
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61be
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x1
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61be
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x1
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61be
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x3
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61bc
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x3
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61bc
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x3
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61bc
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x3
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61bc
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x3
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61bc
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x3
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61bc
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x3
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61bc
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x3
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61bc
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x1
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61be
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x1
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61be
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x1
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61be
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x1
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61be
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x1
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61be
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x1
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61be
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x1
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61be
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
+got a packet
+###[ Ethernet ]### 
+  dst       = 08:00:00:00:04:04
+  src       = 08:00:00:00:04:00
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x1
+     len       = 39
+     id        = 1
+     flags     = 
+     frag      = 0
+     ttl       = 62
+     proto     = udp
+     chksum    = 0x61be
+     src       = 10.0.3.3
+     dst       = 10.0.4.4
+     \options   \
+###[ UDP ]### 
+        sport     = 1234
+        dport     = 4321
+        len       = 19
+        chksum    = 0xd565
+###[ Raw ]### 
+           load      = 'SCN is nice'
+
